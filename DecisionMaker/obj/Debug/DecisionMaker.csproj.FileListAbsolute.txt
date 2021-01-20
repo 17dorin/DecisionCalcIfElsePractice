@@ -1,0 +1,7 @@
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\bin\Debug\DecisionMaker.exe.config
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\bin\Debug\DecisionMaker.exe
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\bin\Debug\DecisionMaker.pdb
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\obj\Debug\DecisionMaker.csprojAssemblyReference.cache
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\obj\Debug\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\obj\Debug\DecisionMaker.exe
+C:\Users\17dor\Desktop\GC Slns\DecisionMakerIfElse\DecisionMaker\obj\Debug\DecisionMaker.pdb
